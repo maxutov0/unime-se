@@ -1,14 +1,14 @@
 # unime-se
 Project for Software engineering of University of Messina
 
-# Members
+## Members
 1. Akylbek Maxutov 53775
 
-# Server
+## Server
 API for interacting with Services and Resources
 
-# UI
+## UI
 UI for users
 
-# Development
+## Development
 Repository is based on Node.js and Typescript image
